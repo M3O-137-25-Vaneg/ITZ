@@ -1,0 +1,40 @@
+{
+  "login": "1",
+  "created": "2026-01-05 22:40:24",
+  "last_saved": "2026-01-05 22:40:24",
+  "player": {
+    "login": "1",
+    "player": {
+      "name": "Элиас Шоу",
+      "hp": "100/100",
+      "damage": 20,
+      "defense": 10,
+      "artifacts": [],
+      "path": null,
+      "morality": 50,
+      "crew_loyalty": 70,
+      "morvanna_trust": 30
+    },
+    "story": {
+      "chapter": 1,
+      "decisions": [],
+      "branches_unlocked": [
+        "chapter1",
+        "chapter2",
+        "chapter3",
+        "chapter4",
+        "chapter5"
+      ]
+    },
+    "artifacts_collected": [],
+    "locations_visited": []
+  },
+  "story_progress": {
+    "chapter": 1,
+    "path": null,
+    "decisions": [],
+    "visited_locations": []
+  },
+  "artifacts_collected": [],
+  "boss_defeated": false
+}

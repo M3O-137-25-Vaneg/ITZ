@@ -1,0 +1,37 @@
+{
+  "login": "1234",
+  "created": "2026-01-05 22:30:59",
+  "last_saved": "2026-01-05 22:37:45",
+  "player": {
+    "name": "Элиас Шоу",
+    "hp": "50/100",
+    "damage": 20,
+    "defense": 10,
+    "artifacts": [],
+    "path": null,
+    "morality": 50,
+    "crew_loyalty": 70,
+    "morvanna_trust": 55
+  },
+  "story_progress": {
+    "chapter": 3,
+    "path": null,
+    "decisions": [
+      [
+        "chapter1_initial",
+        1
+      ],
+      [
+        "chapter1_morvanna_response",
+        1
+      ],
+      [
+        "chapter2_first_crystal",
+        2
+      ]
+    ],
+    "visited_locations": []
+  },
+  "artifacts_collected": [],
+  "boss_defeated": false
+}
